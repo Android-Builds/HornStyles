@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HornStyles</string>
+    <string name="saved_themes">Saved Themes</string>
+    <string name="theme">Theme 1</string>
+</resources>
